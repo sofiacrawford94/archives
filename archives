@@ -1,0 +1,808 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#f9f0e1">
+	<link rel="apple-touch-icon-precomposed" href="/_resources2015/img/favicon-152.png">
+	<meta name="msapplication-TileColor" content="#f9f0e1">
+	<meta name="msapplication-TileImage" content="/_resources2015/img/favicon-144.png">   
+    <link rel="shortcut icon" href="/cjr-icon-2.ico">  
+    <meta name="google-site-verification" content="Fu4CypYBPmzQ9gLIFYah2sCib3rLWiqCkG5PLwZwdEY" />
+    
+	<title>The Hamster Wheel - Columbia Journalism Review</title>
+	
+    <meta property="og:title" content="The Hamster Wheel" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cjr.org/cover_story/the_hamster_wheel.php" />     
+
+    <meta property="og:image" content="http://www.cjr.org/_resources2015/images/global/CJR-icon-210x210.png" />
+               
+    <meta property="og:site_name" content="Columbia Journalism Review" />
+    <meta property="og:description" content="Why running as fast as we can is getting us nowhere" /> 
+    
+    <meta itemprop="name" content="The Hamster Wheel">
+    <meta itemprop="description" content="Why running as fast as we can is getting us nowhere">
+
+    <meta itemprop="image" content="http://www.cjr.org/_resources2015/images/global/CJR-icon-210x210.png">
+
+
+	
+    
+    <!-- CSS -->
+      
+	<link rel="stylesheet" href="../_resources2015/css/bootstrap.css">
+	<link href="../_resources2015/css/cjrcorestyles-5617.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles_add_on.css" rel="stylesheet">
+    <link rel="stylesheet" href="../_resources2017/css/main-mixed.css?v=1"/>    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="/_resourcesbeta/css/interstitial_full_sail_center.css" />
+	<link rel="stylesheet" type="text/css" href="../_resources2015/fonts/commercial-type-1502-AFHEEU-web/1502-AFHEEU.css">
+    
+     
+    
+    <!-- xml   -->  
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/index.xml" />
+	
+    
+    <!-- Javascripts -->
+
+    <script type="text/javascript" src="../mt.js"></script>
+ 
+
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    
+    <script type="text/javascript">
+		$(function () {
+
+			var isMobile = (/android|webos|iphone|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+		
+			$("#module-recent-popular-stories .module-head-toggle a").click(
+				function () {
+					if ($(this).is(".recent")) {
+						$("#module-recent-popular-stories .module-head-toggle a.recent").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .module-head-toggle a.popular").removeClass("active").addClass("inactive");
+						$("#module-recent-popular-stories .stories.recent").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .stories.popular").removeClass("active").addClass("inactive");
+					} else {
+						$("#module-recent-popular-stories .module-head-toggle a.popular").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .module-head-toggle a.recent").removeClass("active").addClass("inactive");
+						$("#module-recent-popular-stories .stories.popular").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .stories.recent").removeClass("active").addClass("inactive");
+					};
+					
+					return false;
+				}
+			);
+			
+			$("#nav-mobile-hamburger").click(
+				function () {
+					$("#nav-mobile .menu").toggle();
+				}
+			);
+		});
+	</script>
+       
+	<!-- mailchimp -->
+    
+    <script type="text/javascript">
+		var $mcGoal = {'settings':{'uuid':'a23440a018c7ba0619c6f01e6','dc':'us3'}};
+		(function() {
+			 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+			sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+		})(); 
+	</script>
+  
+    <!-- Facebook page ownership-->
+    <meta property="fb:pages"content="33800584090" />
+    
+    <!-- Facebook Pixel Code -->
+	<script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+       fbq('init', '1790101097907703'); 
+       fbq('track', 'PageView');
+    </script>
+    <noscript>
+     <img height="1" width="1" src="https://www.facebook.com/tr?id=1790101097907703&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+	<!-- Ads -->
+	    
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+    
+    <script>
+	  var gptAdSlots = [];
+      googletag.cmd.push(function() {
+		  
+		var mapping = googletag.sizeMapping().
+   		addSize([730, 480], [728, 90]).
+  		addSize([0, 0], [300, 250]).build();
+        
+        googletag.defineSlot('/3562084/cjr_multi_ad_slot', [[300, 250], [728, 90]], 'div-gpt-ad-1502835476121-0').
+    	defineSizeMapping(mapping).
+    	addService(googletag.pubads());
+        
+		googletag.defineSlot('/3562084/cjr_17_square', [300, 250], 'div-gpt-ad-1502833214477-0').addService(googletag.pubads());
+		
+		googletag.pubads().enableSingleRequest();
+        googletag.pubads().setTargeting('cjr_2017_ad_slots', ['cover_story']);
+        googletag.enableServices();
+      });
+    </script>
+    
+        
+      <script type='text/javascript'>
+      googletag.cmd.push(function() {
+      googletag.defineSlot('/3562084/CJR_700x500_TEST', [700, 500], 'div-gpt-ad-1374535322548-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+      });
+      </script>
+      <script type="text/javascript" src="/interstitial_full_sail_2.js"></script> 
+      
+   
+    
+</head>
+<body>
+    
+    <aside id="bottom-sharing" class="navbar-fixed-bottom">
+		<a href="http://twitter.com/share?url=https%3A%2F%2Fwww.cjr.org%2Fcover_story%2Fthe_hamster_wheel.php&amp;text=The%20Hamster%20Wheel&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon">a</span></a>
+		<a href="http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/cover_story/the_hamster_wheel.php" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/cover_story/the_hamster_wheel.php', 'facebook', 'status=0,height=370,width=640'); return false"><span class="socicon">b</span></a>
+		<a href="javascript:mailpage()"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+	</aside>
+	    
+    <!-- START new header -->
+
+	<div id="container">
+		<div id="search-container">
+			<div id="nav-mobile">
+				<a href="#" id="nav-mobile-hamburger" class="fa fa-bars"></a>
+				<div class="menu">
+					<ul class="main">
+						<li><a href="/search_new.php">Search</a></li>
+						<li><a href="https://www.cjr.org/local_news/">Local News</a></li>
+						<li><a href="https://www.cjr.org/covering-trump/">Covering Trump</a></li>
+						<li><a href="https://www.cjr.org/business_of_news/">Business of Journalism</a></li>
+						<li><a href="https://www.cjr.org/innovations/">Innovation</a></li>
+					</ul>
+					<ul class="sub">
+						<li><a href="https://www.cjr.org/about_us/mission_statement.php">About</a></li>
+						<li><a href="https://www.cjr.org/about_us/donate.php">Donate</a></li>
+						<li><a href="https://members.cjr.org/member/?a=nav-mem&utm_source=cjr-org&utm_medium=cjr-nav&utm_campaign=m-land">Membership</a></li>
+						<li><a href="https://www.cjr.org/tag/spring-2017">Magazine</a></li>
+						<li><a href="https://www.cjr.org/about_us/advertise.php">Advertise</a></li>
+						<li><a href="https://www.cjr.org/about_us/contact.php">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+			<form id="search" action="https://www.cjr.org/search">
+            	<input type="hidden" name="cx" value="002110349687880336610:9r4jniuv6ko" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                
+				<input type="text" class="text" defaultvalue=" " name="q" value=" Search" onFocus="if (this.value==' Search') this.value='';" style="height: 22px;" />
+				<button>&#9740;</button>
+			</form>
+		</div>
+		<div id="header">
+			<a href="https://www.cjr.org/"><img src="../_resources2017/images/cjr-logo-2x-b.png" alt="Columbia Journalism Review" id="logo"/></a>
+            <a href="https://www.cjr.org/"><img src="../_resources2017/images/cjr-logo-mobile-2x.png" alt="Columbia Journalism Review" id="logo-mobile"/></a>
+			<div id="tagline">
+				<p>The voice of journalism</p>
+				<a href="https://members.cjr.org/member/?a=nav-join&utm_source=cjr-org&utm_medium=cjr-nav&utm_campaign=m-land">Join Us</a>
+			</div>
+			<ul id="nav-highlights">
+				<li><a href="https://www.cjr.org/local_news/">Local News</a></li>
+                <li><a href="https://www.cjr.org/covering-trump/">Covering Trump</a></li>
+                <li><a href="https://www.cjr.org/business_of_news/">Business of Journalism</a></li>
+                <li><a href="https://www.cjr.org/innovations/">Innovation</a></li>
+			</ul>
+			<ul id="nav-meta">
+				<li><a href="https://www.cjr.org/about_us/mission_statement.php">About</a></li>
+                <li><a href="https://www.cjr.org/about_us/donate.php">Donate</a></li>
+                <li><a href="https://members.cjr.org/member/?a=nav-mem&utm_source=cjr-org&utm_medium=cjr-nav&utm_campaign=m-land">Membership</a></li>
+                <li><a href="https://www.cjr.org/tag/spring-2017">Magazine</a></li>
+                <li><a href="https://www.cjr.org/about_us/advertise.php">Advertise</a></li>
+                <li><a href="https://www.cjr.org/about_us/contact.php">Contact</a></li>
+			</ul>
+		</div>
+        
+        <div class="module-row">
+			<div class="module" id="breaking">
+				
+			</div>
+		</div>
+        
+    </div>
+
+
+<!-- END new header --> 
+    
+    <div class="container-fluid">
+    
+    <!-- 728x90 ad -->
+    	<div class="row banner-ad-dynamic">
+            
+            <center>
+           	<!-- /3562084/cjr_multi_ad_slot -->
+            <div id='div-gpt-ad-1502835476121-0'>
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502835476121-0'); });
+            </script>
+            </div>
+        	</center>
+        
+    	</div>
+    	
+      
+   		
+        <article id="article">
+            <div class="row no-photo">
+                <div class="col-sm-2 category center-block text-center hidden-print">
+                    <a href="../cover_story/">
+					<img class="category-circle-img" src="../_resources2015/img/category_circles/circle_the_archives.png" />
+					<small>Archives:<br>Cover Story</small></a>
+                </div>
+                <header class="col-sm-10">
+                    <h1>The Hamster Wheel</h1>
+                    <h4 class="archive-deck">Why running as fast as we can is getting us nowhere</h4>
+                </header>
+            </div>
+        
+   
+           
+				<section class="row">
+                
+					<aside id="sharing" class="col-sm-2 text-center sticky hidden-print">
+						<section id="story-info">
+
+                        	<h2><a href="http://www.cjr.org/author/dean-starkman-2/">By Dean Starkman</a></h2>
+                            
+							<small>
+                            
+                            
+                            <a href="../magazine/septemberoctober2010.php">
+                            	 
+                                 	September /<br> October 2010
+                                 
+                            </a>
+                            
+                            
+                            </small>
+							<small>3565 words</small>
+						</section>
+                        
+                        <div class="sharing-buttons">
+                            
+                            <section>
+                            
+                            
+                            
+                
+                
+                
+                
+                
+                                   
+    
+                
+                                
+                            </section>
+                            <section>
+                                <a href="http://twitter.com/share?url=https%3A%2F%2Fwww.cjr.org%2Fcover_story%2Fthe_hamster_wheel.php&amp;text=The%20Hamster%20Wheel&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon">a</span>
+                                <small>Share<br>on Twitter</small></a>
+                            </section>
+                            <section>
+                                <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/cover_story/the_hamster_wheel.php" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/cover_story/the_hamster_wheel.php', 'facebook', 'status=0,height=370,width=640'); return false"><span class="socicon">b</span>
+                                <small>Share<br>on Facebook</small></a>
+                            </section>
+                            <section>
+                                <a href="javascript:mailpage()"><span class="glyphicon glyphicon-envelope"></span>
+                                <small>Email<br>this story</small></a>
+                            </section>
+                        
+                        </div>
+                        
+					</aside>
+                    
+                    
+					<div class="col-sm-10 col-md-6 body-text-all" id="article-content">
+                    
+                    	
+                    	
+                    	<p>&#8220;Newsrooms have shrunk by 25% in three years.&#8221; &#8212;<i>Project for Excellence in Journalism, <a href=http://www.stateofthemedia.org/2010/ target=_blank>&#8220;State of the News Media 2010&#8221;</a></i></p>
+
+<p>&#8220;A large majority (75%) of editors said their story counts . . . had either increased or remained the same during the past three years.&#8221; &#8212;<i>PEJ, <a href=http://www.journalism.org/node/11961 target=_blank>&#8220;The Changing Newsroom,&#8221;</a> July 2008</i></p>
+
+<p>&#8220;We&#8217;re all wire service reporters now.&#8221; &#8212;<i>Theresa Agovino,</i> Crain&#8217;s New York Business, <i>at a conference of women real estate writers, December 2009</i></p>
+
+<p>&#8220;NBC&#8217;s chief White House correspondent, Chuck Todd, in a typical day does eight to sixteen standup interviews for NBC or MSNBC; hosts his new show, &#8216;The Daily Rundown&#8217;; appears regularly on &#8216;Today&#8217; and &#8216;Morning Joe&#8217;; tweets or posts on his Facebook page eight to ten times; and composes three to five blog posts. &#8216;We&#8217;re all wire-service reporters now,&#8217; he says.&#8221; &#8212;<i>Ken Auletta</i>, The New Yorker, <i><a href=http://www.newyorker.com/reporting/2010/01/25/100125fa_fact_auletta target=_blank>&#8220;Non-Stop News,&#8221;</a> January 25, 2010</i></p>
+
+<p>&#8220;Everyone&#8217;s running around like rats.&#8221; &#8212;<i>a</i> Wall Street Journal <i>editor, June 21</i></p>
+
+<p>&#8220;The scoop has never had more significance to our professional users, for whom a few minutes, or even seconds, are a crucial advantage whose value has increased exponentially.&#8221; &#8212;<i>Robert Thomson, managing editor,</i> The Wall Street Journal, <i>in a memo to staff headlined &#8220;A Matter of Urgency,&#8221; sent May 19</i></p>
+
+<p>&#8220;Everybody has to be on the air every day. That makes a big difference.&#8221; &#8212;<i>Greg Guise, digital correspondent (cameraman), WUSA9-TV, Washington, D.C., June 2</i></p>
+
+<p>&#8220;Turning and turning in the widening gyre / The falcon cannot hear the falconer.&#8221; &#8212;<i>William Butler Yeats, &#8220;The Second Coming&#8221;</i></p>
+
+<p>&#8220;When asked to cite the newsroom loss that hurt the most, one editor answered simply, &#8216;The concept of who and what we are.&#8217; &#8221; &#8212;<i>PEJ, &#8220;The Changing Newsroom&#8221;</i></p>
+
+<p><span class="dropcap">T</span>hese are challenging times in the news business. We get that, even up here in the CJR commune. I am not here to argue against experimentation, keeping up with the Huffingtons, Mike Allen-ism, or any of that. I am not anti-speed. Speed is good. It&#8217;s why there&#8217;s a news business in the first place. It&#8217;s why the man <i>ran</i> the twenty-six miles from the battle of Marathon. It&#8217;s why journalism starts with <i>jour</i>, although now it should probably be called <i>heure</i>-nalism. So rest assured, your writer is pro-scoop, pro-working hard, pro-update, pro-competing-for-scraps-of-news-like-a-pack-of-wild-animals, pro-video, etc., type, type, pant, pant&#8212;phew! Sorry, for a second I thought I was on <a href=http://dealbook.blogs.nytimes.com/ target=_blank>DealBook</a>.</p>
+
+<p>I&#8217;m also for quantity when it comes to news&#8212;more is more, I say. Even though our readers are all supposed to be super busy, so in theory it makes no sense&#8212;at all&#8212;to be <i>increasing</i> the volume of random items for these harried people to sort through. You&#8217;d think we&#8217;d be <i>decreasing</i> our volume, and making sure each thing offered to readers is really good. But, like I said, I&#8217;ve no problem with volume, in theory. </p>
+
+<p>Also, I should go on record as being pro-productivity. I&#8217;m for squeezing every last ounce from every last lazy, lucky-to-have-a-job reporter. I&#8217;m an editor, too, you know. Reporters and their &#8220;but we need <i>time</i> to look into stuff&#8221;&#8212;wah, wah. Don&#8217;t they know we&#8217;re in deep kimchi? &#8220;We are in a tough, take-no-prisoners, leave-no-terminal-unturned competition around the world,&#8221; as Robert Thomson reminds his staff in the memo cited above. Bleedin&#8217; crisis, this is. </p>
+
+<p>But let&#8217;s think about this for a second. Stop. Think. We&#8217;re doing more with less, the numbers don&#8217;t lie. Fewer reporters and editors. More copy. What&#8217;s the bottom line? &#8220;The bottom line culturally is this,&#8221; PEJ said in that <a href=http://www.journalism.org/node/11961 target=_blank>2008 report</a>:</p>
+
+<blockquote>In today&#8217;s newspapers, stories tend to be gathered faster and under greater pressure by a smaller, less experienced staff of reporters, then are passed more quickly through fewer, less experienced, editing hands on their way to publication.</blockquote>
+
+<p>Logic tells us something has to give. But what? Hmm. Well, we can rule out quality. You see, CJR Reader, the quality of reporting and writing from major news organizations is better than ever&#8212;just ask senior news managers, as PEJ <a href=http://www.journalism.org/node/11961 target=_blank>did</a> in 2008:</p>
+
+<blockquote>Despite the cutbacks in staffing and space, by 54% vs. 32%, clear majorities of editors said the comprehensiveness of their news coverage had either significantly or somewhat improved . . . in the last three years. An overwhelming 94% of editors said their papers were as accurate or more accurate than three years ago. And a solid 56%, taking it all in, said the &#8220;overall quality of their news product is now better than it was before.&#8221;</blockquote>
+
+<p>Rupert Murdoch, quoted by Sarah Ellison in her new book, <i>War at the Wall Street Journal</i>, put a finer point on it when he compared his version of my old paper to earlier incarnations: &#8220;We produced a better paper. I&#8217;m sorry, but it&#8217;s as simple as that.&#8221; </p>
+
+<p>Ah, well, the quality argument is not one that anybody&#8217;s going to win. You can&#8217;t actually measure journalism&#8217;s quality; that&#8217;s its tragic flaw and maybe saving grace. You can point to circulation or prizes, but journalism is more art than science. It&#8217;s why quantity will always have an advantage over quality. But qualitative comparisons, particularly between eras, are basically just an argument. Could Michael Jordan&#8217;s champion Bulls of the &#8217;90s have beaten Larry Bird&#8217;s Celtics in their heyday? (Bad example; <i>of course</i> they could have, but the point is made.) One reader&#8217;s livelier news pages look to another reader like news A.D.D., an inability to choose <i>anything</i> so instead of trying to publish <i>everything</i>, all the time. Still, this lack of choosing is itself a choice. More on that later. </p>
+
+<p>Put it this way, given limited resources, not all readers would think to assign seven (!) staffers to live blog the opening ceremonies of the Winter Olympics, as <i>The Wall Street Journal</i> <a href=http://blogs.wsj.com/dailyfix/2010/02/12/winter-olympics-opening-ceremony-diary/tab/liveblog/ target=_blank>did in February</a>: </p>
+
+<blockquote>The preceremony starts, with instructions to the audience. As always in Canada, all explanations are in English and French.</blockquote>
+
+<p><br />
+But again, that&#8217;s just me. Perhaps there was nothing else to look into that night&#8212;in the whole world.</p>
+
+<p><br />
+Without getting into whether newspapers are worse or better than before&#8212;let&#8217;s concede they&#8217;re fabulous; that&#8217;s why everyone loves them so much&#8212;we should pause for a second and think about the implications of the do-more-with-less meme that is sweeping the news business. I call it the Hamster Wheel. </p>
+
+<p>The Hamster Wheel isn&#8217;t speed; it&#8217;s motion for motion&#8217;s sake. The Hamster Wheel is volume without thought. It is news panic, a lack of discipline, an inability to say no. It is copy produced to meet arbitrary productivity metrics (Bloomberg!). It is &#8220;Sheriff plans no car purchases in 2011,&#8221; (<a href=http://kokomotribune.com/local/x1703950466/Sheriff-plans-no-car-purchases-in-2011 target=_blank><i>Kokomo Tribune</i>, 7/5/10</a>). It is &#8220;Ben Marter&#8217;s Home-Cooked Weekend,&#8221; (<a href=http://www.politico.com/click/stories/1006/marters_homecooked_weekend.html target=_blank>Politico, 6/28/10</a>): &#8220;Saturday morning, he took some of the leftover broccoli, onions, and mushrooms, added jalapenos, and made omeletes for a zingy breakfast.&#8221; Ben Marter is communications director for a congresswoman. It&#8217;s live-blogging the opening ceremonies, matching stories that don&#8217;t matter, and fifty-five seconds of video of a movie theater screen being built: &#8220;Wallingford cinema adding 3 screens (video),&#8221; (<a href=http://www.newhavenregister.com/articles/2010/06/01/business/bb1wacinema27_art_and_video060110.txt target=_blank><i>New Haven Register</i>, 6/1/10</a>).<br />
+ <br />
+But it&#8217;s more than just mindless volume. It&#8217;s a recalibration of the news calculus. Of the factors that affect the reporting of news, an underappreciated one is the risk/reward calculation that all professional reporters make when confronted with a story idea: How much time versus how much impact? This informal vetting system is surprisingly ruthless and ultimately efficient for one and all. The more time invested, the bigger the risk, but also the greater potential glory for the reporter, and the greater value to the public (can&#8217;t forget them!). Do you fly to Chicago to talk to that guy about that thing? Do you read that bankruptcy examiner&#8217;s report? Or do you do three things that are easier? </p>
+
+<p>Journalists will tell you that where once newsroom incentives rewarded more deeply reported stories, now incentives skew toward work that can be turned around quickly and generate a bump in Web traffic. &#8220;You&#8217;re constantly looking for the next story like that,&#8221; says Zachary Roth, a former reporter for Talking Points Memo (and before that a CJR staff member). &#8220;The posts you end up pitching and writing are less likely to be investigative.&#8221;</p>
+
+<p>None of this is written down anywhere, but it&#8217;s real. The Hamster Wheel, then, is investigations you will never see, good work left undone, public service not performed. It is the perceived imperative to churn out every story that might have been nice to have had, at some point, <i>maybe</i>, given unlimited resources, but that, given highly constrained news budgets, should be allowed to recede into history unrecorded&#8212;or unrecorded by you, even if it is recorded by a thousand others. How many readers really ask themselves, &#8220;I wonder why <i>my</i> site didn&#8217;t have that Lugar-urges-&#8216;common sense&#8217;-in-new-farm-dust-trials story?&#8221; (<a href=http://www.indystar.com/article/20100809/BUSINESS/100809024/Lugar-urges-EPA-to-use-commonsense-in-dust-rules target=_blank>AP, 8/9/10</a>).<br />
+ <br />
+You say, &#8220;Why <i>not</i> have it?&#8221; I say, &#8220;Because it isn&#8217;t free.&#8221; The most underused words in the news business today: let&#8217;s pass on that.</p>
+
+<p>The Hamster Wheel, really, is the mainstream media&#8217;s undoing, in real time, and they&#8217;re doing it to themselves. So before the Wheel spins completely off its axle, sending hamsters and wood chips flying, we should think about the Wheel, question the assumptions that underlie it, and recognize a few truths that emerge after painstaking analysis performed over a truly obscene amount of time:</p>
+
+<p><b>1. The Wheel is real</b> </p>
+
+<p>&#8220;We give them three times as many things that are completely unimportant,&#8221; fumes a <i>Wall Street Journal</i> reporter. Clearly, this whiner is exaggerating&#8212;but not by much. According to a CJR tally using the Factiva database owned by the paper&#8217;s parent, News Corp., the <i>Journal</i>&#8217;s staff a decade or so ago produced stories at a rate of about 22,000 a year, all while doing epic, and shareholder-value-creating, work, like bringing the tobacco industry to heel. This year, the <i>Journal</i> staff produced almost as many stories&#8212;21,000&#8212;in the <i>first six months</i>. The hamster creep started in 2000, with a spike to 26,000, and story counts have risen more or less steadily since, topping out at 38,000 in 2008, dropping a bit last year, and resuming a record-setting pace this year. By the way, this count does not include Web-only material, blogs, NewsHub, etc., which the staff also produces, so the figures in the chart below are conservative. <br />
+<br><br />
+<img src=https://www.cjrarchive.org/img/posts/starkmanchart.jpg border="0"><br><br />
+<br><br />
+Meanwhile, the number of journalists producing those stories has shrunk. The International Association of Publishers&#8217; Employees Local 1096, which represents a substantial part of the newsroom (though probably less than half; it doesn&#8217;t count staff outside the U.S. and Canada, or editors above a certain level, for instance) says the number of its covered <i>Journal</i> staffers dropped 13 percent, from 323 in 2000 to 281 in 2008. (A <i>Wall Street Journal</i> spokeswoman declined to provide a headcount; a News Corp. reorganization last year blurred the distinction between <i>WSJ</i> staff and the company&#8217;s wire reporters.) Story production in the same period rose 46 percent. The decline in unionized reporters in that period can be fairly extrapolated to the broader newsroom. So given the rise in story count, output jumped 69 percent per IAPE staffer (though others, mostly Dow Jones newswire reporters, would have contributed to the <i>Journal</i>&#8217;s total story count). It&#8217;s enough to make a chicken-processing-plant manager proud. But in the news business, as in the chicken business, there is a point of diminishing returns, and we passed it around 2002. This is basic physics: more stories divided by less staff equals scrawnier chickens. Respectfully, Mr. Murdoch, you are wrong&#8212;but you aren&#8217;t alone. </p>
+
+<p>This is not to say the Wheel is universal, even within organizations. The <i>Journal</i> let its reporters go deep with its recent Internet-privacy series, and has been rewarded with Pulitzer-caliber work. Clearly, some reporters still have time to make a phone call before they tweet. And that suggests rule no. 2. </p>
+
+<p><b>2. The Wheel is not inevitable</b></p>
+
+<p>The Internet, we know, is the greatest invention since the Twinkie. It allows us to publish any time, all the time. But that doesn&#8217;t mean we have to. Given that the news business has lost an estimated 15,000 journalists since 2000, it does not directly follow to go from &#8220;we&#8217;re facing a serious transformation in our industry&#8221; to &#8220;let&#8217;s write as much as possible as fast as we can.&#8221; It&#8217;s not hard to understand the impulse to do more with less. Hamsterism is a natural reaction to a novel set of conditions&#8212;a collapsing model, a new paradigm, a cacophony of new voices, fewer people filling an infinite hole. And through the haze we can glimpse an online model that equates Web traffic with advertising dollars, though as we&#8217;ll see, the connection is far from clear.</p>
+
+<p>But newspapers aren&#8217;t wire services, and wires aren&#8217;t blogs. News organizations must change with the times, but nowhere is it written in <i>Newsonomics</i> (or whatever thrown-together, authoritative-sounding book is being read like Torah by news managers these days) that news organizations should drift away from core values, starting with the corest of core&#8212;investigations and reporting in the public interest. These are not just &#8220;part of the mix.&#8221; They are a mindset, a doctrine, an organizing value around which healthy news cultures are created, the point. </p>
+
+<p>In <a href=http://www.stateofthemedia.org/2010/newspapers_news_investment.php target=_blank>a report</a> this year, PEJ cites editors at the Milwaukee <i>Journal Sentinel</i> and <i>The Boston Globe</i>, who recognize the problem and explicitly reject Wheel-like thinking. PEJ quotes <i>Globe</i> editor Martin Baron acknowledging that there may be less content in the paper, &#8220;but it is vetted to be unique and enterprising,&#8221; of higher interest and higher impact. Exactly.</p>
+
+<p>So let&#8217;s recognize the Wheel for what it is: a choice.</p>
+
+<p><b>3. The Wheel infantilizes reporters, strengthens P.R.</b></p>
+
+<p>This is just logic. If reporters lack the time to gather, analyze, and reflect on information, then they will have less leverage to confront the institutions on their beat. </p>
+
+<p>And make no mistake, we are living in a time of P.R. ascendance. In their recent book, <i>The Death and Life of American Journalism</i>, Robert W. McChesney and John Nichols estimate that, even in the 1970s, when newspapers were in their heyday, the percentage of news generated from press releases was in the 40 percent to 50 percent range, a fair-enough guess. Since then, while journalism has withered, P.R. has bloomed like a rash. The authors document that in 1980, the ratio of P.R. people to news reporters was manageable, about 0.45 P.R. specialists and managers per 100,000 population to about 0.36 journalists. Today, P.R. towers over journalism, with 0.90 pros per 100,000 to just 0.25 journalists. </p>
+
+<p>In <a href=http://www.newyorker.com/reporting/2010/01/25/100125fa_fact_auletta target=_blank>Ken Auletta&#8217;s <i>New Yorker</i> piece</a>, cited above, White House officials expressed dismay at how little time reporters have to talk to them. &#8220;Everything is rushed,&#8221; Auletta writes, and quotes then White House Communications Director Anita Dunn. &#8220;&#8216;When journalists call you to discuss a story, it&#8217;s not because they&#8217;re interested in having a discussion. They&#8217;re interested in a response. And the need to file five times a day encourages this.&#8217;&#8221; It encourages leaning on P.R., too. </p>
+
+<p>A sense of empowerment comes through in the tone of P.R. professionals. When Mark Pittman, Bloomberg&#8217;s late, great investigative reporter, asked for information on where the AIG bailout money went, <a href=http://www.cjr.org/the_audit/goldmans_backdoor_bailout.php?page=all target=_blank>here was the response</a>:</p>
+
+<blockquote>Treasury spokeswoman Brookly McLaughlin said, &#8220;The Fed had the lead on this one: It&#8217;s their loan. I don&#8217;t know how I could be more clear.&#8221;</blockquote>
+
+<p><i>Why are you bothering us about a few dozen billion unprecedented secret U.S. government bailout dollars?</i></p>
+
+<blockquote>&#8220;[Y]ou should call AIG,&#8221; said Fed spokesman Calvin Mitchell. &#8220;I doubt that we will be talking about AIG&#8217;s CDO portfolio.&#8221;</blockquote>
+
+<p>Run along, big fella.</p>
+
+<p>As it happens, Pittman, and <i>The New York Times</i>&#8217;s Gretchen Morgenson a couple of days earlier, <a href=http://www.nytimes.com/2008/09/28/business/28melt.html target=_blank>revealed the recipients</a> of that bailout money: Goldman Sachs and other Wall Street investment banks. But Pittman and Morgenson aren&#8217;t on the Wheel. They are arguments against the Wheel. This leads to Hamster Rule 4, or what I like to call &#8220;The Paradox of the Wheel.&#8221;</p>
+
+<p><b>4. The Wheel never sets the news agenda, it only responds to the agendas of others</b></p>
+
+<p>The Paradox of the Wheel is that, for all the activity it generates, the Wheel renders news organizations deeply passive. The greater the need for copy, the more dependent reporters are on sources for scoops and pitiful scraps of news. In a 2000 study in the British academic journal <i>Journalism</i>, researchers analyzed news articles about a hostile takeover that would involve a massive restructuring in the hotel and leisure business to demonstrate that almost everything printed about the event was drawn from competing P.R. campaigns aimed at a few institutional shareholders, while the interests of individual shareholders, 80,000 employees, millions of customers, and British taxpayers (big tax subsidies were involved) were ignored. The press was, in effect, &#8220;captured&#8221; on a Hamster Wheel of press campaigns. The author, Aeron Davis, made the commonsense observation that P.R. dominance &#8220;worked to block unwelcome mainstream coverage, exclude non-corporate voices, and helped to define the boundaries of corporate &#8216;elite discourse networks.&#8217;&#8221;</p>
+
+<p>In other words, if news organizations don&#8217;t set the agenda, someone else will.</p>
+
+<p><b>5. The Wheel isn&#8217;t free</b></p>
+
+<p>The costs are in literate prose, proven premises, news that did not originate from an institution, and other airy-fairy things that build credibility and value over the long term. This is about resource allocation. Back in the Pleistocene Era, 2003, <i>The Wall Street Journal</i>&#8217;s Daniel Golden convinced someone to allow him to review a 1998 document of sensitive academic information from the Groton School, the tony boarding school in Massachusetts. It revealed that one Margaret Bass, who was the only one of nine Groton applicants to get into Stanford that year, actually had an SAT score&#8212;1220&#8212;that was considerably lower than seven of the eight other students from her class who unsuccessfully applied to Stanford. Golden explained: </p>
+
+<blockquote>But Ms. Bass had an edge: Her father, Texas tycoon Robert Bass, was chairman of Stanford&#8217;s board and had given $25 million to the university in 1992. Mr. Bass has a degree from the Stanford Graduate School of Business. He and his wife, Anne, are both Groton trustees.</blockquote>
+
+<p>Groton&#8217;s headmaster told Golden that the document was not an &#8220;official school record.&#8221; So how did Golden know it was accurate? He called twenty other students whose information was in the document. The story was part of <a href=http://online.wsj.com/public/resources/documents/PulitzerDG04052004.htm target=_blank>a series</a> that won a Pulitzer, but more importantly, it changed perceptions about affirmative action.</p>
+
+<p>The Wheel doesn&#8217;t do that. It&#8217;s worth noting that Golden&#8217;s Pulitzer wasn&#8217;t for investigation, but for <a href=http://www.pulitzer.org/citation/2004-Beat-Reporting target=_blank>beat reporting</a>.</p>
+
+<p><b>6. The Wheel pays the bills&#8212;or does it?</b></p>
+
+<p>Sure, you need clicks. Yes, you should update. And of course you need to be on the news. But it is understatement to say that new financial models of digital journalism are still being worked out, and that no one knows which ones will endure. Consider that even the science of measuring Web traffic is still in its infancy. In May, competing measurement firms, Nielson NetRatings and comScore, measured Yahoo&#8217;s traffic and differed by 34 million readers, as <a href=http://www.journalism.columbia.edu/cs/ContentServer/jrn/1212612769236/page/1212612769080/JRNSimplePage2.htm target=_blank>a new study</a> by Ph.D. students here at Columbia&#8217;s journalism school explains. And getting from clicks to dollars involves another set of calculations. &#8220;Everybody wants traffic,&#8221; Lucas Graves, one of the study&#8217;s authors, told me. &#8220;But the ways it translates into dollars are very complex and rarely direct.&#8221; (Graves&#8217;s piece for CJR, based on the study, can be found <a href= http://www.cjr.org/reports/traffic_jam.php target=_blank>here</a>.) The great hope for the Web future, The Huffington Post, still only manages to generate revenue amounting to $1 per reader per year, according to a recent piece in <i>Newsweek</i>. It&#8217;s nothing to sneeze at, but the site&#8217;s editorial formula&#8212;which involves search-engine optimization up the wazoo&#8212;is controversial, to say the least, and the revenue figures are still relatively small.</p>
+
+<p>Finally, self-styled newsroom &#8220;realists,&#8221; those who believe that life is one long twilight struggle for page views, may already be fighting the last war. In CJR&#8217;s July/August issue, our science editor, Curtis Brainard (and, yes, that&#8217;s the name of our science editor; CJR wanted me to change mine to &#8220;Malcolm Bucksworth&#8221; but I refused), <a href=http://www.cjr.org/cover_story/a_second_chance.php target=_blank>makes a convincing case</a> that mobile devices, with their apps and other paid subscription schemes, offer journalism its best hope to make money in a digital age. Brainard says these mobile-device strategies focus on a curated news experience and deep reader engagement and will involve a whole new series of metrics.</p>
+
+<p>The point is that it may be true that there is money in cranking out sixty-three-word briefs like, &#8220;Microwave Sparks Fire, Kills Dog&#8221; (<a href=http://voices.washingtonpost.com/local-breaking-news/microwave-sparks-fire-kills-do.html target=_blank>Washingtonpost.com, 8/9/10</a>), but you&#8217;d have to prove it. No one has. </p>
+
+<p><span class="dropcap">S</span>o to all you editors laying off your best storytellers, rewarding quick hits, and letting your investigative assets wither, I say this: you will be sorry. For the rest of us, the Hamster Wheel&#8217;s logical conclusion is Demand Media, the world&#8217;s leading hamster-powered content farm, which employs 7,000 freelancers, produces 4,500 items every day, uses algorithms to figure out what to write, has passed <i>The New York Times</i> in traffic, and has just filed for an IPO. It publishes some stuff&#8212;<a href=http://www.ehow.com/how_6066653_make-festivus-pole.html target=_blank>&#8220;How To Make a Festivus Pole,&#8221;</a> <a href=http://www.ehow.com/how_2102892_choose-bondage-videos.html target=_blank>&#8220;How To Choose Bondage Videos&#8221;</a>&#8212;that is <a href=http://www.ehow.com/how_4854069_donate-old-books.html target=_blank>literally</a> <a href=http://www.ehow.com/how_4422177_grow-facial-hair-faster.html target=_blank>incredible</a>.</p>
+
+<p>Demand Media lives by a <a href=http://www.demandmedia.com/about/demand-media-manifesto/ target=_blank>six-point &#8220;manifesto&#8221;</a> that ends with an appropriate dictum: &#8220;Never rest.&#8221;</p>
+						
+                        
+
+                  
+                      
+                  
+                  
+                  
+                                          	<p>                        
+                        <center><div style="width: 85%; background-color:#fff; padding: 10px 14px 10px 14px !important; margin: 30px 0px 40px 0px !important; outline:#999 solid thin; text-align:center;">
+                        <em>Has America ever needed a media watchdog more than now? Help us by <a href="https://members.cjr.org/membership/?a=txt-has&utm_source=cjr-org&utm_medium=cjr-txt-ad&utm_campaign=m-form" target="_blank">joining CJR today</a>.</em>
+                        </div></center>
+                        </p>                                        
+                        
+                            
+                        <small class="bio-overline"><strong>Dean Starkman Dean Starkman runs The Audit, CJR's business section, and is the author of <a href="http://www.deanstarkman.com/book/"><em>The Watchdog That Didn't Bark: The Financial Crisis and the Disappearance of Investigative Journalism</em></a> (Columbia University Press, January 2014). Follow Dean on Twitter: <a href="https://twitter.com/deanstarkman" target="_blank">@deanstarkman</a>.</strong></small>
+                        
+                	
+            
+                	
+            
+                           
+                        
+                    	 
+            
+                	                        
+                        
+                    
+          
+					</div>
+                    
+                    
+                    <div class="nocontent">
+                    
+					<aside id="sidebar" class="nocontent col-sm-offset-2 col-md-4 col-md-offset-0 trending-stories hidden-print">
+             
+                    	<div class="sidebar-ad">      
+                        
+                            <!-- /3562084/cjr_17_square -->
+                            <div id='div-gpt-ad-1502833214477-0' style='height:250px; width:300px;'>
+                            <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502833214477-0'); });
+                            </script>
+                            </div>
+                          
+                     	</div>
+
+						<!-- end ad square -->
+
+                    	<!-- trending stories -->
+                        
+  <h3><a href="https://www.cjr.org/60th-all-articles/?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="CJR 60th Anniversary" target="_blank">CJR 60th Anniversary</a></h3>                        
+            
+<section>
+        <h4><a class="gtc-link" href="https://www.cjr.org/60th/how-do-you-know-amy-davidson-sorkin.php?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="How Do You Know? Amy Davidson Sorkin on the moments when trust is tested" target="_blank">How Do You Know? Amy Davidson Sorkin on the moments when trust is tested</a></h4>
+    </section>
+  
+ <section>
+        <h4><a class="gtc-link" href="https://www.cjr.org/60th/on-understanding-society-fred-friendly-interviews-walter-lippmann.php?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="On Understanding Society: Fred Friendly interviews Walter Lippmann, America's founding media critic" target="_blank">On Understanding Society: Fred Friendly interviews Walter Lippmann, America’s founding media critic</a></h4>
+    </section>
+  
+<section>
+        <h4><a class="gtc-link" href="https://www.cjr.org/60th/corridor-mirrors-whiteside-chicago-convention-1968.php?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="Corridor of Mirrors: The television editorial process, Chicago" target="_blank">Corridor of Mirrors: The television editorial process, Chicago</a></h4>
+    </section>
+  
+<section>
+        <h4><a class="gtc-link" href="https://www.cjr.org/60th/the-making-of-a-publisher-katharine-graham-personal-history-washington-post-gloria-cooper.php?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="The Making of a Publisher: On the Washington Post's Katharine Graham" target="_blank">The Making of a Publisher: On the Washington Post’s Katharine Graham</a></h4>
+    </section>
+
+ <section>
+        <h4><a class="gtc-link" href="https://www.cjr.org/60th/nicholas-spangler-student-reporter-september-11-2001.php?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="Witness: What one student reporter saw on 9/11" target="_blank">Witness: What one student reporter saw on 9/11</a></h4>
+    </section>                          
+                        
+
+<!-- 
+<h3><a href="https://www.cjr.org/60th-all-articles/?a=cjr-60th-sidebar-highlighter&utm_source=cjr-org&utm_medium=referral" title="CJR 60th Anniversary" target="_blank">CJR 60th Anniversary</a></h3>
+                    
+    <section>
+        <h4><a href="https://www.cjr.org/opinion/tech-journalism-on-background.php" title="Tech journalism&#8217;s &#8216;on background&#8217; scourge">Tech journalism&#8217;s &#8216;on background&#8217; scourge</a></h4>
+    </section>
+    
+    <section>
+        <h4><a href="https://www.cjr.org/the_media_today/mueller_report_andrew_weissmann_failures.php" title="Mueller revisionism, and the culpability of the press">Mueller revisionism, and the culpability of the press</a></h4>
+    </section>
+    
+    <section>
+        <h4><a href="https://www.cjr.org/criticism/gates-foundation-journalism-funding.php" title="Journalism&#8217;s Gates keepers">Journalism&#8217;s Gates keepers</a></h4>
+    </section>
+    
+    <section>
+        <h4><a href="https://www.cjr.org/politics/drudge-report-trump.php" title="Why did Matt Drudge turn on Donald Trump?">Why did Matt Drudge turn on Donald Trump?</a></h4>
+    </section>
+    
+    <section>
+        <h4><a href="https://www.cjr.org/the_profile/tucker-carlson.php" title="The mystery of Tucker Carlson">The mystery of Tucker Carlson</a></h4>
+    </section>
+
+    -->
+   
+
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/3562084/cjr_2021_interior_skyscraper', [300, 600], 'div-gpt-ad-1621626654710-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+     <div class="sidebar-ad" style="padding-top: 34px !important;">    
+                        
+        <!-- /3562084/cjr_2021_interior_skyscraper -->
+        <div id='div-gpt-ad-1621626654710-0' style='min-width: 300px; min-height: 600px;'>
+          <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1621626654710-0'); });
+          </script>
+        </div>
+
+    </div>
+
+</aside>                    
+                    </div>
+                        
+					</aside>
+                    
+				</section>
+		</article>
+	</div>
+	
+    <div class="nocontent">
+    
+	                   
+    
+    <section id="perspective-top" class="nocontent hidden-print">
+		<div class="nocontent container-fluid">
+			<div class="text-center">
+				<img class="center-block perspective-icon" src="../_resources2015/img/cjr-icon.gif" />
+				<h3>Featured</h3>
+			</div>
+			<div class="row">
+            	
+                <article class="col-sm-8 col-sm-offset-2 lead">
+					<section>
+                    	<a href="https://www.cjr.org/opinion/journalism-is-now-the-second-draft-of-history.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+						<a href="http://twitter.com/share?url=https://www.cjr.org/opinion/journalism-is-now-the-second-draft-of-history.php&amp;text=Journalism is now the second draft of history&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button">a</span></a>
+						<a href="https://www.cjr.org/opinion/journalism-is-now-the-second-draft-of-history.php"><small>Monday, Jan 14th, 2019</small>
+						<h1>Journalism is now the <i>second</i> draft of history</h1>
+                        <h2>By James Harkin</h2></a>
+                        <p>In the age of the relentless media fact-check, reading the news often feels like hearing a punch-line deflated before you catch the body of the joke. Free-floating fact-checking initiatives have lately become big (non-profit) business. In an industry—the written media—whose...</p>
+						<a href="https://www.cjr.org/opinion/journalism-is-now-the-second-draft-of-history.php" style="z-index:1 !important;"><span class="link-spanner-middle"></span></a>
+					</section>
+				</article>
+                        
+			                
+                    
+			</div>        
+		</div>
+	</section>
+    
+	<section id="perspective-bottom" class="nocontent hidden-print">
+		<div class="nocontent container-fluid">
+
+                        
+                                      	
+             	
+             
+                    <article class="secondary-box secondary-box-img" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/01/cjr-lvrj-00C-400x255.jpg);">
+                	<a href="https://www.cjr.org/special_report/sheldon-adelson-metoo-las-vegas-review-journal.php/" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/special_report/sheldon-adelson-metoo-las-vegas-review-journal.php/&amp;text=The newspaper that #MeToo missed&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/special_report/sheldon-adelson-metoo-las-vegas-review-journal.php/"><small>Wednesday, Jan 9th, 2019</small>
+						<h4>The newspaper that #MeToo missed</h4>
+						<h2>By Jennifer Robison</h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/special_report/sheldon-adelson-metoo-las-vegas-review-journal.php/" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+                  
+                                      	
+             	
+             
+                    <article class="secondary-box secondary-box-img" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/01/IMG_8680-400x255.jpg);">
+                	<a href="https://www.cjr.org/analysis/palestinian-citizens-of-israel-musawa.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/analysis/palestinian-citizens-of-israel-musawa.php&amp;text=Palestinian citizens of Israel struggle to tell their stories&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/analysis/palestinian-citizens-of-israel-musawa.php"><small>Friday, Jan 11th, 2019</small>
+						<h4>Palestinian citizens of Israel struggle to tell their stories</h4>
+						<h2>By Miriam Berger</h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/analysis/palestinian-citizens-of-israel-musawa.php" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+                 
+			                     	
+             	             
+                    <article class="secondary-box secondary-box-img-third" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/01/AdobeStock_203838518-400x255.jpeg);">
+                	<a href="https://www.cjr.org/tow_center/investigating-algorithims-germany-schufa.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/tow_center/investigating-algorithims-germany-schufa.php&amp;text=What a report from Germany teaches us about investigating algorithms&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/tow_center/investigating-algorithims-germany-schufa.php"><small>Thursday, Jan 10th, 2019</small>
+						<h4>What a report from Germany teaches us about investigating algorithms</h4>
+						<h2>By Nicholas Diakopoulos</h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/tow_center/investigating-algorithims-germany-schufa.php" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+            
+                        
+			                
+                     
+			         
+		</div>
+	</section>
+                
+    </div>
+    
+	<!-- footer section -->
+    <footer class="nocontent hidden-print">
+		<section id="newsletter">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<h3 class="invert text-center">Weekly highlights</h3>
+					<h5 class="invert text-center">Subscribe to the best of CJR, compiled by the editors every Thursday.</h5>
+				</div>
+				<form class="col-sm-4 col-sm-offset-4" id="email-new" action="//cjr.us3.list-manage1.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=c6de9a59ea" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate>
+                
+				  <div class="form-group">                    
+                    <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter email" />
+				  </div>
+				  <a type="submit" class="btn invert form-btn center-block" onclick="document.getElementById('email-new').submit(); return false;">Sign up</a>                               
+				</form>
+			</div>
+		</section>
+		<section id="footer-items">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/about_us/mission_statement.php"><small><strong>About us</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/contact/contact.php"><li>Contact us</li></a>
+							<a href="http://www.cjr.org/about_us/mission_statement.php"><li>About Columbia Journalism Review</li></a>
+					       <a href="http://www.cjr.org/about_us/masthead.php"><li>Masthead</li></a>
+							<a href="http://www.cjr.org/about_us/privacy_policy.php"><li>Privacy policy</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<small><strong>Join &amp; Donate</strong></small>
+						<ul class="list-unstyled">
+							<a href="https://members.cjr.org/member/?a=nav-foot-mem&utm_source=cjr-org&utm_medium=cjr-nav&utm_campaign=m-land"><li>Become a member of Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/contact/donate.php"><li>Donate to support CJR&rsquo;s mission</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/advertise/about_our_readers.php"><small><strong>Advertise</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="https://www.cjr.org/about_us/advertise.php"><li>Contact us for more information</li></a>
+							
+							
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/resources/"><small><strong>Resources</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/tow-center/more_tow_center_reports.php"><li>Research from the Tow Center for Digital Journalism</li></a>
+							<a href="http://www.cjr.org/the_delacorte_lectures/all.php"><li>Delacorte Lectures on Magazine Journalism</li></a>
+							<a href="http://www.cjr.org/news_startups_guide/"><li>Guide to online news startups</li></a>
+							<a href="http://cjr.org/supportreporting/"><li>Support reporting</li></a>
+						</ul>
+					</div>
+				</div>
+				<div class="row text-center">
+					<ul class="col-sm-12 list-unstyled">
+						<li>&copy; Copyright 2022 Columbia Journalism Review</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8FET82CL2M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8FET82CL2M');
+</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2442246-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<style> .cc-link, .cc-revoke:hover {text-decoration: underline !important;} 
+        .cc-banner .cc-btn:last-child {margin: 0px 0px 0px 20px;}</style>
+
+<script src="https://ssl.geoplugin.net/extras/cookielaw.js?k=f7c869d90f1b5ab3" type="text/javascript"></script>
+    
+<script type="text/javascript">if ( geop1ugin_cookieConsent () ) { jQuery.getScript("//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js", function(){});} </script>
+    
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eeeeee"
+    },
+    "button": {
+      "background": "#ec502e"
+    }
+  },
+  "content": {
+    "message": "This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Columbia University's usage of cookies and similar technologies, in accordance with the ",
+    "dismiss": "DISMISS",
+    "link": "Columbia University Website Cookie Policy.",
+    "href": "https://cuit.columbia.edu/content/columbia-university-website-cookie-notice"
+  }
+})});
+</script>
+
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="../_resources2015/js/nav.js"></script>
+<script src="../_resources2015/js/mailpage.js"></script>
+
+<script type="text/javascript">
+
+ if ($(window).width() > 886) {
+	  document.write("\x3Cscript src='../_resources2015/js/stickyfill.min.js'>\x3C/script>\x3Cscript>$('.sticky').Stickyfill();\x3C/script>");
+	}
+
+</script>
+
+</html>
